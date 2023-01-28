@@ -1,0 +1,24 @@
+.settings-page {
+  -webkit-app-region: no-drag;
+  position: relative;
+  min-height: calc(100vh - 50px);
+  min-width: 100%;
+  .default_text {
+    color: #6389aa;
+  }
+  .green_text {
+    color: var(--unnamed-color-22);
+  }
+  .cyan_text {
+    color: var(--unnamed-color-8);
+  }
+  .yellow_text {
+    color: var(--unnamed-color-25);
+  }
+  .white_text {
+    color: var(--unnamed-color-13);
+  }
+  .red_text {
+    color: #ff0600;
+  }
+}
